@@ -16,7 +16,9 @@
 ;;
 ;; MIT License Copyright (c) 2008 Marcus Crafter <crafterm@redartisan.com>
 ;; Credits due to the excellent TextMate Twilight theme
-;;
+
+;; Testing some changes
+;; more changes.
 
 (defun color-theme-twilight ()
   "Color theme by Marcus Crafter, based off the TextMate Twilight theme, created 2008-04-18"
